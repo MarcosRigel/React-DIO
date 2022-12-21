@@ -50,3 +50,26 @@ aplicativos e websites.
 
 Instalar o Node e NPM
 https://nodejs.org/en/
+
+
+Etapa 3
+
+Yarn
+
+O que é o Yarn
+O Yarn é um gerenciador de pacotes para aplicar comandos prontos ao código de uma aplicação.
+
+Instalar o yarn
+
+https://yarnpkg.com/getting-started/install
+
+Etapa 4
+
+O que é o React DevTools
+É uma extensão disponivel para o chrome, firefox e também como um aplicativo independente que permite
+inspeccionar a hierarquia de componentes do React nas Ferramentas do desenvolvedor do navegador.
+
+Instalar o React DevTools
+
+https://github.com/facebook/react/tree/main/packages/react-devtools-extensions
+
