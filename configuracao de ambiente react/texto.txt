@@ -1,0 +1,36 @@
+Setup inicial e configuração de ambiente no React.
+
+Objetivo Geral
+Configurar todo o ambiente de desenvolvimento e estar apto a iniciar os estudos de React
+
+Pré-requisitos
+► Computador com Windows, Linux ou Mac.
+
+Percurso
+Etapa 1 -> Instalando o visual studio code.
+Etapa 2 -> Node e NPM
+Etapa 3 -> Yarn
+Etapa 4 -> React DevTools
+Etapa 5 -> Extensões para Visual Studio Code
+
+
+Etapa 1
+
+Instalando o visual studio code.
+
+O que é o Visual Studio Code?
+O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e
+macOS. Ele inclui suporte para controle de versionamento, realce de sintaxe, snippets e refatoração
+de código.
+
+Alterarnativa para VSCode
+Sublime, brackets, Atom, JetBrains
+
+Como instalar o VSCode
+
+https://code.visualstudio.com 
+ou
+tutorial no youtube: 
+https://www.youtube.com/watch?v=_R6YslWRUFk&list=PLMZylsT-bTEk-ut4iUaA0nCEZKuTLPrit&index=2
+
+
