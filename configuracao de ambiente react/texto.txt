@@ -73,3 +73,13 @@ Instalar o React DevTools
 
 https://github.com/facebook/react/tree/main/packages/react-devtools-extensions
 
+Etapa 5
+
+Extensões para Visual Studio Code
+
+O porque utilizar extensões?
+
+Constumam ser leves, não comprometem o funcionamento do software e são de fácil instalação. Cada dev tem a sua 
+maneira de programar e é por isso que as extensões podem ser ótimas aliadas! Com elas, conseguimos adaptar
+o VSCode às nossas necessidades, criando na rotina de trabalho e estudo um ambiente mais funcional.
+
